@@ -57,8 +57,9 @@ npm run deploy
 以下是已經安裝在專案中的套件。
 
 - axios (^1.6.5)
-- bootstrap (^5.3.2)
-- bootstrap-icons (^1.11.3)
+- autoprefixer (^10.4.20)
+- postcss (^8.4.49)
+- tailwindcss (^3.4.16)
 - dotenv (^16.3.1)
 - pinia (^2.1.7)
 - vue (^3.3.11)
